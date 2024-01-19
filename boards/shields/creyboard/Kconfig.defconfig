@@ -1,0 +1,4 @@
+
+if SHIELD_CREYBOARD
+config ZMK_KEYBOARD_NAME
+    default "Creyboard"
