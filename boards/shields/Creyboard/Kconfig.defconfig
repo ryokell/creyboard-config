@@ -1,4 +1,9 @@
+# Copyright (c) 2023 The ZMK Contributors
+# SPDX-License-Identifier: MIT
 
 if SHIELD_CREYBOARD
+
 config ZMK_KEYBOARD_NAME
     default "Creyboard"
+
+endif
