@@ -20,4 +20,4 @@
 include:
   - board: nice_nano_v2
   
-    shield: Creyboard nice_view
+    shield: Creyboard nice_view_adapter nice_view
